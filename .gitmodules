@@ -25,3 +25,15 @@
 [submodule "pack/nvim/start/friendly-snippets"]
 	path = pack/nvim/start/friendly-snippets
 	url = https://github.com/rafamadriz/friendly-snippets
+[submodule "pack/nvim/start/gruvbox.nvim"]
+	path = pack/nvim/start/gruvbox.nvim
+	url = https://github.com/ellisonleao/gruvbox.nvim
+[submodule "pack/nvim/start/nvim-treesitter"]
+	path = pack/nvim/start/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter
+[submodule "pack/nvim/start/playground"]
+	path = pack/nvim/start/playground
+	url = https://github.com/nvim-treesitter/playground
+[submodule "pack/nvim/start/nvim-ts-rainbow"]
+	path = pack/nvim/start/nvim-ts-rainbow
+	url = https://github.com/p00f/nvim-ts-rainbow

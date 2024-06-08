@@ -7,7 +7,12 @@ if [ $# -eq 0 ]; then
   exit 1
 fi
 
-plugin_link=$1
+plugin_name=$1
+
+github_prepand_for_link="https://github.com/"
+
+
+plugin_link="$github_prepand_for_link$plugin_name"
 
 plugin_name=${plugin_link##*/}
 
