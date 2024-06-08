@@ -52,3 +52,6 @@
 [submodule "pack/nvim/start/null-ls.nvim"]
 	path = pack/nvim/start/null-ls.nvim
 	url = https://github.com/jose-elias-alvarez/null-ls.nvim
+[submodule "pack/nvim/start/nvim-autopairs"]
+	path = pack/nvim/start/nvim-autopairs
+	url = https://github.com/windwp/nvim-autopairs
