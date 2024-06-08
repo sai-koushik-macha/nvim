@@ -49,3 +49,6 @@
 [submodule "pack/nvim/start/vim-fugitive"]
 	path = pack/nvim/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/nvim/start/null-ls.nvim"]
+	path = pack/nvim/start/null-ls.nvim
+	url = https://github.com/jose-elias-alvarez/null-ls.nvim
