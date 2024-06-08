@@ -55,3 +55,6 @@
 [submodule "pack/nvim/start/nvim-autopairs"]
 	path = pack/nvim/start/nvim-autopairs
 	url = https://github.com/windwp/nvim-autopairs
+[submodule "pack/nvim/start/Comment.nvim"]
+	path = pack/nvim/start/Comment.nvim
+	url = https://github.com/numToStr/Comment.nvim
