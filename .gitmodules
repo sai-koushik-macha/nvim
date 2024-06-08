@@ -37,3 +37,12 @@
 [submodule "pack/nvim/start/nvim-ts-rainbow"]
 	path = pack/nvim/start/nvim-ts-rainbow
 	url = https://github.com/p00f/nvim-ts-rainbow
+[submodule "pack/nvim/start/plenary.nvim"]
+	path = pack/nvim/start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "pack/nvim/start/telescope.nvim"]
+	path = pack/nvim/start/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim
+[submodule "pack/nvim/start/telescope-fzy-native.nvim"]
+	path = pack/nvim/start/telescope-fzy-native.nvim
+	url = https://github.com/nvim-telescope/telescope-fzy-native.nvim
