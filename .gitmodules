@@ -1,3 +1,27 @@
 [submodule "pack/nvim/start/nvim-lspconfig"]
 	path = pack/nvim/start/nvim-lspconfig
 	url = https://github.com/neovim/nvim-lspconfig
+[submodule "pack/nvim/start/nvim-cmp"]
+	path = pack/nvim/start/nvim-cmp
+	url = https://github.com/hrsh7th/nvim-cmp
+[submodule "pack/nvim/start/cmp-nvim-lsp"]
+	path = pack/nvim/start/cmp-nvim-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp
+[submodule "pack/nvim/start/cmp-buffer"]
+	path = pack/nvim/start/cmp-buffer
+	url = https://github.com/hrsh7th/cmp-buffer
+[submodule "pack/nvim/start/cmp-path"]
+	path = pack/nvim/start/cmp-path
+	url = https://github.com/hrsh7th/cmp-path
+[submodule "pack/nvim/start/cmp-cmdline"]
+	path = pack/nvim/start/cmp-cmdline
+	url = https://github.com/hrsh7th/cmp-cmdline
+[submodule "pack/nvim/start/LuaSnip"]
+	path = pack/nvim/start/LuaSnip
+	url = https://github.com/L3MON4D3/LuaSnip
+[submodule "pack/nvim/start/cmp_luasnip"]
+	path = pack/nvim/start/cmp_luasnip
+	url = https://github.com/saadparwaiz1/cmp_luasnip
+[submodule "pack/nvim/start/friendly-snippets"]
+	path = pack/nvim/start/friendly-snippets
+	url = https://github.com/rafamadriz/friendly-snippets
