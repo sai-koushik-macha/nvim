@@ -10,10 +10,10 @@ local formatting = null_ls.builtins.formatting
 null_ls.setup({
     sources = {
         -- completion
-        completion.spell.with({ filetypes = { "markdown", "text" } }),
+        -- completion.spell.with({ filetypes = { "markdown", "text" } }),
 
         -- diagnostics
-        diagnostics.shellcheck,
+        -- diagnostics.shellcheck,
         diagnostics.clang_tidy,
 
         formatting.clang_format,
