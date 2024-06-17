@@ -31,9 +31,6 @@
 [submodule "pack/nvim/start/nvim-treesitter"]
 	path = pack/nvim/start/nvim-treesitter
 	url = https://github.com/nvim-treesitter/nvim-treesitter
-[submodule "pack/nvim/start/playground"]
-	path = pack/nvim/start/playground
-	url = https://github.com/nvim-treesitter/playground
 [submodule "pack/nvim/start/plenary.nvim"]
 	path = pack/nvim/start/plenary.nvim
 	url = https://github.com/nvim-lua/plenary.nvim
