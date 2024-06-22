@@ -37,9 +37,6 @@
 [submodule "pack/nvim/start/telescope.nvim"]
 	path = pack/nvim/start/telescope.nvim
 	url = https://github.com/nvim-telescope/telescope.nvim
-[submodule "pack/nvim/start/telescope-fzy-native.nvim"]
-	path = pack/nvim/start/telescope-fzy-native.nvim
-	url = https://github.com/nvim-telescope/telescope-fzy-native.nvim
 [submodule "pack/nvim/start/vim-fugitive"]
 	path = pack/nvim/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive

@@ -19,15 +19,15 @@ telescope.setup({
 
         mappings = { i = { ["<C-q>"] = actions.send_to_qflist } },
     },
-    extensions = {
-        fzy_native = {
-            override_generic_sorter = false,
-            override_file_sorter = true,
-        },
-    },
+    -- extensions = {
+    --     fzy_native = {
+    --         override_generic_sorter = false,
+    --         override_file_sorter = true,
+    --     },
+    -- },
 })
 
-telescope.load_extension("fzy_native")
+-- telescope.load_extension("fzy_native")
 
 local search_dotfiles = function()
     require("telescope.builtin").git_files({
