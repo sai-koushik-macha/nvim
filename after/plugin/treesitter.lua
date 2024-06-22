@@ -4,7 +4,7 @@ if not status_ok then
 end
 
 require("nvim-treesitter.configs").setup({
-    ensure_installed = "all",
+    ensure_installed = {"bash", "c", "cmake", "cpp", "lua", "make", "python"},
 
     highlight = {
         enable = true,

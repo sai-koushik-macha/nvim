@@ -6,7 +6,7 @@ autocmd("BufWritePost", {
     group = group,
     pattern = "*",
     callback = function()
-        vim.cmd(":!clang-format -i %")
+        vim.cmd(":silent !clang-format -i %")
         -- vim.cmd("!echo 'Hi'")
     end,
 })
